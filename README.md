@@ -86,7 +86,7 @@ pry(main)> require './lib/player'
 # => true
 
 pry(main)> premier = League.new("Premier League")
-# => #<Network:0x00007fe5f83ea3b0...>
+# => #<League:0x00007fe5f83ea3b0...>
 
 pry(main)> premier.name
 # => "Premier League"
